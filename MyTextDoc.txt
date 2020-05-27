@@ -1,2 +1,3 @@
 Trying out GitHub Desktop for the first time.
 And now I've added this second line on the GitHub website. Hopefully I can pull it properly on the Desktop app.
+Added a third line, which I'm going to use to test rebasing.
